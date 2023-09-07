@@ -1,0 +1,20 @@
+﻿Customer,Customer Type,Payment Type,Purchases,Sales,Refunds,Country,Continent
+10000,Person,Cash,120000,150000,240,Canada,America
+10001,Company,Cash,,651750,1043,Japan,Asia
+10002,Company,Credit Card,451000,563750,902,Mexico,America
+10003,Company,Transfer,565000,706250,1130,Spain,Europe
+10004,Personal,Transfers,512300,,1024,Argentina,America
+10005,Person,Transfer,415500,519375,0,Canada,America
+10006,Company,Credit Card,696300,870375,1392,EEUU,America
+10007,Person,Cash,741000,926250,1482,Chile,America
+10008,Company,Cash,541000,676250,1082,EEUU,America
+10009,Company,Cashs,83000,103750,166,EEUU,America
+10010,Company,Cash,454100,567925,910,EEUU,America
+10011,Person,Transfers,520033,650041,1041,EEUU,America
+10012,Person,Credit Card,452000,565000,904,Canada,America
+10013,Person,Transfer,352000,440000,704,Germany,Europe
+10014,Company,Transfer,241010,301262,480,EEUU,America
+10015,Company,Credit Card,560122,700152,1120,Mexico,America
+10016,Person,Credit Card,362200,452750,0,Canada,America
+10017,Person,Cash,452230,565287,903,Japan,Asia
+10018,Company,Cash,521000,651250,1042,Spain,Europe
